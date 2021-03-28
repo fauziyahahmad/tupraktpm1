@@ -1,2 +1,3 @@
 # tupraktpm1
-Layouting
+Praktikum Teknologi dan Pemrograman Mobile Plug D
+Tugas 1 (Layout)
